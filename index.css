@@ -1,0 +1,25 @@
+.main
+        {
+            text-align: center;
+            background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWazXO2LnezCQ-3oPpkKf2AtR7k7fN3UTm2g&usqp=CAU);
+        }
+        #v1{
+            border-radius: 50%;
+        }
+        .info
+        {
+            float:right;
+        }
+        .vform
+        {
+            float:left;
+        } 
+        #up
+        {
+            background-color: rgba(153, 6, 77, 0.776);
+            position: fixed;
+        }
+        #head,h2
+        {
+            -webkit-text-fill-color: rgba(153, 6, 77, 0.776);
+        }

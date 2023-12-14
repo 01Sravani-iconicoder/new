@@ -16,10 +16,16 @@
         } 
         #up
         {
-            background-color: rgba(153, 6, 77, 0.776);
+            background-color: rgba(153, 6, 77, 0.776); 
+  background-image: linear-gradient(to right, rgba(153, 6, 77, 0.776) , green,black);
             position: fixed;
         }
         #head,h2
         {
             -webkit-text-fill-color: rgba(153, 6, 77, 0.776);
+        }
+        .click
+        {
+            background-color: rgba(153, 6, 77, 0.776); 
+  background-image: linear-gradient(to right, rgba(153, 6, 77, 0.776) , green,black);
         }

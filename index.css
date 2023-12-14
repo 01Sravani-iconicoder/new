@@ -19,6 +19,7 @@
             background-color: rgba(153, 6, 77, 0.776); 
   background-image: linear-gradient(to right, rgba(153, 6, 77, 0.776) , green,black);
             position: fixed;
+            float:right;
         }
         #head,h2
         {
